@@ -62,7 +62,7 @@ For every item and year the datamart provides:
 
 ---
 
-## Assumptions
+## Logic
 
 - `view_item` events represent item views.
 - Item ranking is calculated within each year.
